@@ -41,10 +41,6 @@ This is a simple To-Do App built using Tkinter, a standard GUI (Graphical User I
 - To delete a task, enter the task number in the "Delete Task Number" field and click the "Delete" button.
 - Click on the "Exit" button to close the application.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License 
